@@ -1,0 +1,9 @@
+{
+    "depth": 3,
+    "learning_rate": 0.01,
+    "l2_leaf_reg": 2.975141396023828,
+    "n_estimators": 6000,
+    "min_data_in_leaf": 10,
+    "colsample_bylevel": 0.16279147115191916,
+    "subsample": 0.10475507925692189
+}
